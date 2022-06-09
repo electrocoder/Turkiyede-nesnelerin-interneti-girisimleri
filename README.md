@@ -2,6 +2,7 @@
 Türkiye’de Nesnelerin İnterneti Girişimleri
 
 ##Akıllı Ev - Smart Home
+
 - MZT Elektronik
 - inohom
 - SWARTEA
