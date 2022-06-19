@@ -80,7 +80,7 @@ Türkiye’de Nesnelerin İnterneti Girişimleri
 - piralev
 - ANKAREF
 
-## Tarım - Agri̇culture
+## Tarım - Agriculture
 
 - TarSens
 - esgsistem
