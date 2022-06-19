@@ -15,56 +15,10 @@ Türkiye’de Nesnelerin İnterneti Girişimleri
 - ivarium
 - duyum
 
-## İç Mekan Konumlandırma - Indoor Positioning
-
-- blesh
-- mihmandar
-- Pointr
-- RADIOFAR
-- Mobeaconn
-- İNOVASYON MÜHENDİSLİK
-- Boni
-- mobiki
-- GLOBAX
-- mobistech
-- indoora
-- POILABS
-
-## Perakende - Retail
-
-- PUBINNO
-- MEDRON
-- V-COUNT
-- UDENTIFY
-- BONBON
-- retfox
-- instapio
-- servo
-
 ## Yaşam Tarzı - Lifestyle
 
 - MAKEY
 - aquabooth
-
-## Sağlık Hizmeti - Healtcare
-
-- sanitag
-- SENSENCALL
-- neurocess
-- borda
-- braceHEALTH
-- Osteoid
-
-## İzleme - Tracking
-
-- nearloc
-- koala smart
-- mahrek
-- wipelot
-- smart mimic
-- safe sound
-- TRIOMOBIL
-- kozalak
 
 ## Giyilebilir - Wearables
 
@@ -73,23 +27,6 @@ Türkiye’de Nesnelerin İnterneti Girişimleri
 - DOKO
 - HANGAARLAB
 - TIM
-
-## Ticari İzleme - Commercial Monitoring
-
-- RebusLabs
-- piralev
-- ANKAREF
-
-## Tarım - Agriculture
-
-- TarSens
-- esgsistem
-- suyabakan
-- tarla.io
-- serasist
-- Seracell
-- DOKTAR
-- AGROTICS
 
 ## Toplu Taşıma - Transportation
 
@@ -110,6 +47,44 @@ Türkiye’de Nesnelerin İnterneti Girişimleri
 - DUCKT
 - VOLTRUN
 - ortana
+
+## Donanım - Hardware Platforms
+
+- Bims
+- signalton 
+- sixfab
+- SADEIO
+- IOTURKS
+
+## İç Mekan Konumlandırma - Indoor Positioning
+
+- blesh
+- mihmandar
+- Pointr
+- RADIOFAR
+- Mobeaconn
+- İNOVASYON MÜHENDİSLİK
+- Boni
+- mobiki
+- GLOBAX
+- mobistech
+- indoora
+- POILABS
+
+## Sağlık Hizmeti - Healtcare
+
+- sanitag
+- SENSENCALL
+- neurocess
+- borda
+- braceHEALTH
+- Osteoid
+
+## Ticari İzleme - Commercial Monitoring
+
+- RebusLabs
+- piralev
+- ANKAREF
 
 ## Akıllı Şehir - Smartcity
 
@@ -134,24 +109,6 @@ Türkiye’de Nesnelerin İnterneti Girişimleri
 - SKYSENS
 - noderix
 
-## Enerji - Energy
-
-- reengen
-- smarte
-- Sensgreen
-- smartPulse
-- Linarit
-- cosa
-- inavitas
-
-## Donanım - Hardware Platforms
-
-- Bims
-- signalton 
-- sixfab
-- SADEIO
-- IOTURKS
-
 ## Veri Platformu - Data Platform
 
 - bimetri
@@ -161,6 +118,49 @@ Türkiye’de Nesnelerin İnterneti Girişimleri
 - ThingFast
 - Qubitro
 - iven
+
+## Perakende - Retail
+
+- PUBINNO
+- MEDRON
+- V-COUNT
+- UDENTIFY
+- BONBON
+- retfox
+- instapio
+- servo
+
+## İzleme - Tracking
+
+- nearloc
+- koala smart
+- mahrek
+- wipelot
+- smart mimic
+- safe sound
+- TRIOMOBIL
+- kozalak
+
+## Tarım - Agriculture
+
+- TarSens
+- esgsistem
+- suyabakan
+- tarla.io
+- serasist
+- Seracell
+- DOKTAR
+- AGROTICS
+
+## Enerji - Energy
+
+- reengen
+- smarte
+- Sensgreen
+- smartPulse
+- Linarit
+- cosa
+- inavitas
 
 ## Endüstriyel İzleme - Industrial Monitoring
 
